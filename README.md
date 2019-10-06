@@ -2,7 +2,8 @@
 
 - Eslint
   ```yarn add eslint -D```
-  ```yarn eslint --init```
+  ```yarn eslint --init``` &nbsp;
+
   Utilizar a style guide do AirBnB
 
 - Prettier
