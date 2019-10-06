@@ -1,12 +1,15 @@
 # Instalação
 
-- Eslint
-  ```yarn add eslint -D```
+- Eslint &nbsp;
+
+  ```yarn add eslint -D``` &nbsp;
+
   ```yarn eslint --init``` &nbsp;
 
   Utilizar a style guide do AirBnB
 
-- Prettier
+- Prettier &nbsp;
+
   ```yarn add prettier eslint-config-prettier eslint-plugin-prettier -D```
   
 
