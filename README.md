@@ -3,6 +3,7 @@
 - Eslint &nbsp;
 
   ```yarn add eslint -D``` &nbsp;
+  ```yarn add eslint babel-eslint -D``` &nbsp;
 
   ```yarn eslint --init``` &nbsp;
 
