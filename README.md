@@ -2,9 +2,10 @@
 
 - Eslint &nbsp;
 
-  ```yarn add eslint -D``` &nbsp;
-  ```yarn add eslint babel-eslint -D``` &nbsp;
-
+  ```yarn add eslint -D``` &nbsp;&nbsp;
+  ```yarn add eslint-config-react-app -D```&nbsp;&nbsp;
+  ```yarn add eslint babel-eslint -D``` apenas se necessario &nbsp;&nbsp;
+  
   ```yarn eslint --init``` &nbsp;
 
   Utilizar a style guide do AirBnB
