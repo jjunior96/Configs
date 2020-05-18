@@ -4,7 +4,8 @@
 
   ```yarn add eslint -D``` &nbsp;&nbsp;
   ```yarn add eslint-config-react-app -D```&nbsp;&nbsp;
-  ```yarn add eslint babel-eslint -D``` apenas se necessario &nbsp;&nbsp;
+  - Apenas se necessario
+  ```yarn add eslint babel-eslint -D```  &nbsp;&nbsp;
   
   ```yarn eslint --init``` &nbsp;
 
