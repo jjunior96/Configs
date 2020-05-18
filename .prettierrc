@@ -1,4 +1,6 @@
-  { 
+ { 
+  "arrowParens": "avoid",
+  "semi": false, // ; no final de cada instrução
   "singleQuote": true,
   "trailingComma": "es5"
 }
